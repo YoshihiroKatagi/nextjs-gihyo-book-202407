@@ -4,7 +4,7 @@ const nextConfig = {
   compiler: (() => {
     let compilerConfig = {
       // styledComponentsの有効化
-      isStyledComponents: true,
+      styledComponents: true,
     }
 
     if (process.env.NODE_ENV === 'production') {
