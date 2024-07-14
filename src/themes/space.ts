@@ -6,4 +6,4 @@ space.small = space[1]
 space.medium = space[2]
 space.large = space[3]
 
-export default space
+export default space 
