@@ -4,7 +4,7 @@ import CheckBox from './index'
 import Box from 'components/layout/Box'
 
 export default {
-  title: 'Moleclues/CheckBox',
+  title: 'Molecules/CheckBox',
   argTypes: {
     label: {
       control: { type: 'text' },
