@@ -21,7 +21,7 @@ export type FileData = {
 
 interface InputImagesProps {
   name?: string
-  iamges: FileData[]
+  images: FileData[]
   maximumNumber?: number
   hasError?: boolean
   width?: string
